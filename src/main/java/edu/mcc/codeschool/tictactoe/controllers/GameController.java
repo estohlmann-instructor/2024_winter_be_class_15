@@ -2,7 +2,6 @@ package edu.mcc.codeschool.tictactoe.controllers;
 
 import edu.mcc.codeschool.tictactoe.models.Game;
 import edu.mcc.codeschool.tictactoe.services.GameService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
